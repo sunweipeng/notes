@@ -1,0 +1,19 @@
+{
+	"root":".",
+	"structure":{},
+	"titile":"孙先生的随笔",
+	"description":"",
+	"author":"孙伟朋",
+	"isbn":"",
+	"language":"en",
+	"direction":"ltr",
+	"gitbook":"",
+	"plugins": [
+	   "theme-comscore"
+	],
+	"pluginsConfig": {
+		"theme-default": {
+			"showLevel": true
+		}
+	}
+}
