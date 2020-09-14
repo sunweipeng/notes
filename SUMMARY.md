@@ -6,13 +6,13 @@
 
 ### 工作随笔
 
-* [记事本](word_notes/README.md)
+* [记事本](work_notes/README.md)
 
 ### GIT笔记
 
 * [第一部分](git_notes/README.md)
 
-### NPM笔记
+### 脚手架的旅行
 
 
 
